@@ -3,7 +3,7 @@
 ## Description
 ### Ecomorear is backend server for a store to help manage it's inventory.
 
-## Github: tyarchy/ecomorear
+## Github: [tyarchy/ecomorear](https://github.com/tyarchy/ecomorear)
 ## Video link: https://www.youtube.com/watch?v=0IVfr5UwmN0&t=5s
 
   
